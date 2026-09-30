@@ -1,0 +1,8 @@
+{
+  "name": "AttendFlow - GPS Attendance Management System",
+  "description": "Production-ready Employee Attendance Management Web and Android PWA with GPS geofence validation, Google Sheets integration, and comprehensive reports.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
